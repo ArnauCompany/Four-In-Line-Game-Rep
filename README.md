@@ -1,3 +1,2 @@
 # Rep1
-Bones tardes
-Tonto el que lo lea
+This is my. repository in Github
