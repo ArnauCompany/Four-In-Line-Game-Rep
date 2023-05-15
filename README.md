@@ -9,7 +9,7 @@ The game is played on a 7x6 grid.
 The player (using "X" as their piece) and the AI opponent (using "O" as its piece) take turns placing their pieces on the grid.
 Players can only place their pieces in a column that is not full.
 The objective is to connect four pieces of the same kind in a row, either vertically, horizontally, or diagonally.
-The game ends when either the player or the AI opponent wins or the grid is completely filled (resulting in a draw).
+The game ends when either the player or the computer opponent wins or the grid is completely filled (resulting in a draw).
 
 ## Future Plans
 
