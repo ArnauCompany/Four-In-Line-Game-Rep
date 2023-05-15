@@ -28,4 +28,4 @@ If you'd like to contribute to the Four-In-Line Game, you can follow these steps
 
 ## Acknowledgments
 
-This project was inspired by the classic Four-In-Line board game and was created as a learning exercise. The future plans to incorporate artificial intelligence aim to enhance the gaming experience. Feel free to use and modify the code as needed. Enjoy playing the game!
+This project was inspired by the classic Four-In-Line board game and was created as a learning exercise. We would like to extend our heartfelt appreciation and gratitude to Alvaro Acosta, Pau Garriga, Victor Domene, and Lluis Badia for their outstanding collaboration and contributions to this project. Feel free to use and modify the code as needed. Enjoy playing the game!
