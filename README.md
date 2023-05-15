@@ -5,7 +5,7 @@ Welcome to the Four-In-Line Game! This repository contains the code for a classi
 
 The game follows the following rules:
 
-The game is played on a 7x6 grid.
+The game is played on a 6x7 grid.
 The player (using "X" as their piece) and the AI opponent (using "O" as its piece) take turns placing their pieces on the grid.
 Players can only place their pieces in a column that is not full.
 The objective is to connect four pieces of the same kind in a row, either vertically, horizontally, or diagonally.
