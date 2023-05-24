@@ -20,10 +20,10 @@ In the future, we plan to incorporate artificial intelligence techniques to enha
 If you'd like to contribute to the Four-In-Line Game, you can follow these steps:
 
 1. Fork the repository on GitHub.
-2. Create a new branch with a descriptive name for your feature or bug fix: git checkout -b my-feature
+2. Create a new branch with a descriptive name for your feature or bug fix
 3. Make your changes and write tests if possible.
-4. Commit your changes with a clear and descriptive commit message: git commit -m "Add my feature"
-5. Push your branch to your forked repository: git push origin my-feature
+4. Commit your changes with a descriptive commit message.
+5. Push your branch to your forked repository.
 6. Open a pull request on the main repository's branch you've been working on.
 
 ## Acknowledgments
